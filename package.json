@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "\"# practice-Node.js\"",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ding0816/practice-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ding0816/practice-Node.js/issues"
+  },
+  "homepage": "https://github.com/ding0816/practice-Node.js#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sanitize-html": "^2.3.0"
+  }
+}
